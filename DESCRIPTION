@@ -1,0 +1,10 @@
+Package: ggmodules
+Title: Reusable Shiny Modules Based on ggplot2
+Version: 0.1
+Authors@R: person("Bo", "Wang", email = "sibyllwang@gmail.com",
+                  role = c("aut", "cre"))
+Description: Common visualizations based on ggplot2 rendered as 
+    parametrized Shiny modules
+Depends: R (>= 3.1.0)
+License: MIT
+LazyData: true
